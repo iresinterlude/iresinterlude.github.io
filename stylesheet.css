@@ -68,7 +68,8 @@ body {
 
 /* Background Image */
 .background-image {
-    background: url('IMAGES/index-main-photo.jpg') no-repeat center center/cover;
+    /* background: url('IMAGES/index-main-photo.jpg') no-repeat center center/cover; */
+	background-color: green;
     height: 500px; /* Adjust height as needed */
     border-radius: 20px; /* Rounded corners */
     margin: 20px auto;
