@@ -59,22 +59,16 @@ body {
     padding: 50px 20px;
 }
 
-/* Styling "Studio" Text */
+/* Styling big "IRESINTERLUDE" Text */
 .studio {
     font-family: 'Playfair Display', serif;
     font-size: 80px;
     font-weight: bold;
 }
 
-/* Styling "KENSHO" Text */
-.kensho {
-    font-family: 'Permanent Marker', cursive; /* Graffiti-style font */
-    font-size: 100px;
-}
-
 /* Background Image */
 .background-image {
-    background: url('forest-background.jpg') no-repeat center center/cover;
+    background: url('index-main-photo') no-repeat center center/cover;
     height: 500px; /* Adjust height as needed */
     border-radius: 20px; /* Rounded corners */
     margin: 20px auto;
