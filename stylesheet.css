@@ -14,8 +14,8 @@ body {
 
 /* Logo Styling */
 .logo-icon {
-    width: 50px;  /* Adjust width */
-    height: 50px; /* Adjust height */
+    width: 10px;  /* Adjust width */
+    height: 10px; /* Adjust height */
     object-fit: contain; /* Ensures the entire image fits */
 }
 
